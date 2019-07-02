@@ -39,6 +39,7 @@ body {
   color: #fff;
   display: -ms-flexbox;
   display: flex;
+  font-family: 'DM Sans', sans-serif;
   height: 100%;
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
