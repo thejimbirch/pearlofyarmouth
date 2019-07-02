@@ -24,11 +24,12 @@ a:hover {
  * Base structure
  */
  html {
-  background: transparent url(./files/the-pearl-june-2019-1920.jpg) no-repeat center center fixed;
+  background: transparent url(the-pearl-june-2019-1920.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  font-family: 'DM Sans', sans-serif;
   height: 100%;
 }
 
