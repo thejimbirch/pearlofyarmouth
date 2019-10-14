@@ -117,3 +117,8 @@ img {
   width: 100%;
   height: auto;
 }
+
+.card-text {
+  color: #111;
+  text-shadow: none;
+}
