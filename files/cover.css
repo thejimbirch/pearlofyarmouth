@@ -44,20 +44,16 @@ body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
 
-.cover-container {
-  max-width: 42em;
-}
-
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
-
 
 /*
  * Header
  */
 .masthead {
   margin-bottom: 2rem;
+  max-width: 42em;
 }
 
 .masthead-brand {
